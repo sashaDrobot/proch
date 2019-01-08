@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Контакты</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+          integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg sticky-top">
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <div class="navbar-brand-content-wrapper d-flex align-items-center">
+                <div class="d-inline-block navbar-brand-photo-wrapper">
+                    <img src="img/foto.jpg" alt="">
+                </div>
+                <div class="d-flex flex-column ml-3 navbar-name">
+                    <h5><strong>Прочухан</strong></h5>
+                    <h5><strong>Дмитрий</strong></h5>
+                    <h5><strong>Владимирович</strong></h5>
+                </div>
+            </div>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item d-flex align-items-center justify-content-center text-center">
+                    <a class="nav-link" href="index.html">Главная</a>
+                </li>
+                <li class="nav-item d-flex align-items-center justify-content-center text-center">
+                    <a class="nav-link" href="portfolio.html">Резюме</a>
+                </li>
+                <li class="nav-item d-flex align-items-center justify-content-center text-center">
+                    <a class="nav-link" href="news.html">Новости</a>
+                </li>
+                <li class="nav-item d-flex align-items-center justify-content-center text-center">
+                    <a class="nav-link" href="blog.html">Формы обучения</a>
+                </li>
+                <li class="nav-item d-flex align-items-center justify-content-center text-center">
+                    <a class="nav-link" href="contacts.html">Контакты</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="jumbotron p-3 p-md-5 text-white rounded bg-contacts">
+        <div class="col-md-6 px-0">
+            <h2>Контакты</h2>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid contacts-container">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-md-6">
+                <div class="form-area text-center">
+                    <form action="" method="post">
+                        <h3 class="mb-3">Связаться со мной:</h3>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="name" name="name" placeholder="Ваше имя" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Электронная почта" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" id="message" placeholder="Сообщение" maxlength="140" rows="5" required></textarea>
+                        </div>
+                        <button type="button" id="submit" name="submit" class="btn btn-contacts pull-right">Отправить</button>
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-4 offset-md-2 mt-5">
+                <p>ул. Манизера, 5</p>
+                <p>55001 Харьков, Украина</p>
+                <p>Номер: +380 111 209 291</p>
+                <p>E-mail: <a href="mai1lto:support@mysite.com">support@mysite.com</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Footer -->
+<footer class="page-footer font-small teal pt-4 mt-5">
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2019 Copyright:
+        <a href="">Прочухан Д.В</a>
+    </div>
+    <!-- Copyright -->
+</footer>
+<!-- Footer -->
+<script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+</body>
+</html>
