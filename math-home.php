@@ -71,7 +71,7 @@ mysqli_set_charset($link, "utf8");
 <div class="container">
     <div class="jumbotron p-3 p-md-5 text-white rounded bg-schedule">
         <div class="col-md-6 px-0">
-            <h2>Решение задач по математике</h2>
+            <h2>Каталог примеров</h2>
         </div>
     </div>
 </div>

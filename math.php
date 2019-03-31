@@ -61,7 +61,7 @@
     </div>
 </nav>
 <?php
-$link = mysqli_connect('localhost', 'id6663167_wp_9c206ba245a6c66c4d4fa0db58cf48a9', 'aB386958', 'id6663167_wp_da747b6e85d4512dc9c93f7e95cd0d6b');
+$link = mysqli_connect('localhost', 'root', 'root', 'math');
 if (mysqli_connect_errno()) {
     printf("Невозможно подключиться к базе данных");
     exit;
@@ -71,7 +71,7 @@ mysqli_set_charset($link, "utf8");
 <div class="container">
     <div class="jumbotron p-3 p-md-5 text-white rounded bg-schedule">
         <div class="col-md-6 px-0">
-            <h2>Решение задач по математике</h2>
+            <h2>Каталог примеров</h2>
         </div>
     </div>
 </div>
