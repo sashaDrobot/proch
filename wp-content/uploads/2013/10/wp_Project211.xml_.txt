@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="textKit (http://textkit.ru/)" created="2013-10-02 11:54"-->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.0/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.0/"
+>
+	<channel>
+		<title>Project1</title>
+		<description>textKit Generated Content</description>
+		<wp:wxr_version>1.0</wp:wxr_version>
+		<wp:category>
+			<wp:category_nicename>bez-rubriki</wp:category_nicename>
+			<wp:cat_name><![CDATA[Без рубрики]]></wp:cat_name>
+		</wp:category>
+		<item>
+			<title>Решаем неравенств, имеющих в левой левой части дробное выражение с квадратичными функциями </title>
+			<wp:post_name>reshaem-neravenstv-imeyushhix-v-levoj-levoj-chasti-drobnoe-vyrazhenie-s-kvadratichnymi-funkciyami</wp:post_name>
+			<pubDate>Wed, 02 Oct 2013 11:52:45 GMT</pubDate>
+			<content:encoded><![CDATA[<p><img width=122 height=68 src="/wp-content/uploads/algebra/211/image002.jpg" ></p>
+
+<p>Отметим область допустимых</p>
+
+<p><img width=118 height=29 src="/wp-content/uploads/algebra/211/image004.jpg" ></p>
+
+<p>Решаем неравенство методом интервалов.</p>
+
+<p>Решаем вспомогательные уравнения.</p>
+
+<p><img width=269 height=29 src="/wp-content/uploads/algebra/211/image006.jpg" ></p>
+
+<p>Уравнение 1</p>
+
+<p><img width=108 height=29 src="/wp-content/uploads/algebra/211/image008.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=221 height=29 src="/wp-content/uploads/algebra/211/image010.jpg" ></p>
+
+<p>Дискриминант положителен, значит уравнение имеет два корня.</p>
+
+<p>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p><img width=125 height=58 src="/wp-content/uploads/algebra/211/image012.jpg" ></p>
+
+<p><img width=432 height=58 src="/wp-content/uploads/algebra/211/image014.jpg" ></p>
+
+<p>Ответ этого уравнения: 
+<img width=191 height=29 src="/wp-content/uploads/algebra/211/image016.jpg" >.</p>
+
+<p>Уравнение 2</p>
+
+<p><img width=89 height=29 src="/wp-content/uploads/algebra/211/image018.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=232 height=29 src="/wp-content/uploads/algebra/211/image020.jpg" ></p>
+
+<p>Дискриминант положителен, значит уравнение имеет два корня.</p>
+
+<p>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p><img width=125 height=58 src="/wp-content/uploads/algebra/211/image012.jpg" ></p>
+
+<p><img width=238 height=48 src="/wp-content/uploads/algebra/211/image022.jpg" ></p>
+
+<p>Ответ этого уравнения: 
+<img width=97 height=19 src="/wp-content/uploads/algebra/211/image024.jpg" >.</p>
+
+<p>Отметим найденные критические точки и соответствующие им интервалы на числовой прямой.</p>
+
+<p><img width=408 height=61 src="/wp-content/uploads/algebra/211/image026.jpg" ></p>
+
+<p>Расчет знаков.</p>
+
+<p>Случай 1 :</p>
+
+<p><img width=90 height=29 src="/wp-content/uploads/algebra/211/image028.jpg" ></p>
+
+<p>Пусть</p>
+
+<p><img width=51 height=19 src="/wp-content/uploads/algebra/211/image030.jpg" ></p>
+
+<p><img width=247 height=68 src="/wp-content/uploads/algebra/211/image032.jpg" ></p>
+
+<p>Итак, этот случай удовлетворяет неравенству.</p>
+
+<p>Случай 2 :</p>
+
+<p><img width=175 height=29 src="/wp-content/uploads/algebra/211/image034.jpg" >.</p>
+
+<p>Пусть</p>
+
+<p><img width=40 height=19 src="/wp-content/uploads/algebra/211/image036.jpg" ></p>
+
+<p><img width=211 height=68 src="/wp-content/uploads/algebra/211/image038.jpg" ></p>
+
+<p>Итак, этот случай не удовлетворяет неравенству.</p>
+
+<p>Случай 3</p>
+
+<p><img width=143 height=29 src="/wp-content/uploads/algebra/211/image040.jpg" >.</p>
+
+<p>Пусть</p>
+
+<p><img width=69 height=19 src="/wp-content/uploads/algebra/211/image042.jpg" ></p>
+
+<p><img width=312 height=68 src="/wp-content/uploads/algebra/211/image044.jpg" ></p>
+
+<p>Итак, этот случай удовлетворяет неравенству.</p>
+
+<p>Случай 4: 
+<img width=81 height=19 src="/wp-content/uploads/algebra/211/image046.jpg" >.</p>
+
+<p>Пусть</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/algebra/211/image048.jpg" ></p>
+
+<p><img width=178 height=68 src="/wp-content/uploads/algebra/211/image050.jpg" ></p>
+
+<p>Итак, этот случай не удовлетворяет неравенству.</p>
+
+<p>Случай 5 :</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/algebra/211/image052.jpg" ></p>
+
+<p>Пусть</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/algebra/211/image054.jpg" ></p>
+
+<p><img width=181 height=68 src="/wp-content/uploads/algebra/211/image056.jpg" ></p>
+
+<p>Итак, этот случай удовлетворяет неравенству.</p>
+
+<p>Полученное решение отметим на рисунке.</p>
+
+<p><img width=408 height=61 src="/wp-content/uploads/algebra/211/image058.jpg" ></p>
+
+<p>Окончательный ответ:</p>
+
+<p><img width=279 height=29 src="/wp-content/uploads/algebra/211/image060.jpg" ></p>
+
+<p>Решим ещё один пример</p>
+
+<p><img width=140 height=68 src="/wp-content/uploads/algebra/211/image062.jpg" ></p>
+
+<p>Отметим ОДЗ.</p>
+
+<p><img width=122 height=29 src="/wp-content/uploads/algebra/211/image064.jpg" ></p>
+
+<p>Решаем неравенство методом интервалов.</p>
+
+<p>Решаем вспомогательные уравнения.</p>
+
+<p><img width=291 height=29 src="/wp-content/uploads/algebra/211/image066.jpg" ></p>
+
+<p>Уравнение 1</p>
+
+<p><img width=126 height=29 src="/wp-content/uploads/algebra/211/image068.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=252 height=29 src="/wp-content/uploads/algebra/211/image070.jpg" ></p>
+
+<p>Дискриминант равен нулю, значит,  уравнение имеет один корень.</p>
+
+<p>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p><img width=180 height=48 src="/wp-content/uploads/algebra/211/image072.jpg" ></p>
+
+<p>Ответ этого уравнения:</p>
+
+<p><img width=43 height=19 src="/wp-content/uploads/algebra/211/image074.jpg" ></p>
+
+<p>Уравнение 2</p>
+
+<p><img width=93 height=29 src="/wp-content/uploads/algebra/211/image076.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=238 height=29 src="/wp-content/uploads/algebra/211/image078.jpg" ></p>
+
+<p>Дискриминант отрицателен, значит уравнение не имеет корней.</p>
+
+<p>Ответ этого уравнения: нет решений.</p>
+
+<p>Отметим найденные критические точки и соответствующие им интервалы на числовой прямой.</p>
+
+<p><img width=354 height=45 src="/wp-content/uploads/algebra/211/image080.jpg" ></p>
+
+<p>Расчет знаков.</p>
+
+<p>Случай 1:</p>
+
+<p><img width=43 height=19 src="/wp-content/uploads/algebra/211/image082.jpg" ></p>
+
+<p>Пусть</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/algebra/211/image084.jpg" ></p>
+
+<p><img width=210 height=68 src="/wp-content/uploads/algebra/211/image086.jpg" ></p>
+
+<p>Итак, этот случай удовлетворяет неравенству.</p>
+
+<p>Случай 2:</p>
+
+<p><img width=43 height=19 src="/wp-content/uploads/algebra/211/image088.jpg" ></p>
+
+<p>Пусть</p>
+
+<p><img width=43 height=19 src="/wp-content/uploads/algebra/211/image090.jpg" ></p>
+
+<p><img width=232 height=68 src="/wp-content/uploads/algebra/211/image092.jpg" ></p>
+
+<p>Итак, этот случай удовлетворяет неравенству.</p>
+
+<p>Полученное решение отметим на рисунке.</p>
+
+<p><img width=354 height=45 src="/wp-content/uploads/algebra/211/image094.jpg" ></p>
+
+<p>Окончательный ответ:</p>
+
+<p><img width=93 height=19 src="/wp-content/uploads/algebra/211/image096.jpg" ></p>
+
+<p><img width=140 height=68 src="/wp-content/uploads/algebra/211/image098.jpg" ></p>
+
+<p>Отметим ОДЗ.</p>
+
+<p><img width=122 height=29 src="/wp-content/uploads/algebra/211/image100.jpg" ></p>
+
+<p>Решаем неравенство методом интервалов.</p>
+
+<p>Решаем вспомогательные уравнения.</p>
+
+<p><img width=291 height=29 src="/wp-content/uploads/algebra/211/image102.jpg" ></p>
+
+<p>Уравнение 1</p>
+
+<p><img width=126 height=29 src="/wp-content/uploads/algebra/211/image104.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=252 height=29 src="/wp-content/uploads/algebra/211/image106.jpg" ></p>
+
+<p>Дискриминант равен нулю, значит уравнение имеет один корень.</p>
+
+<p>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p><img width=180 height=48 src="/wp-content/uploads/algebra/211/image108.jpg" ></p>
+
+<p>Ответ этого уравнения: 
+<img width=43 height=19 src="/wp-content/uploads/algebra/211/image110.jpg" >.</p>
+
+<p>Уравнение 2</p>
+
+<p><img width=93 height=29 src="/wp-content/uploads/algebra/211/image112.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=219 height=29 src="/wp-content/uploads/algebra/211/image114.jpg" ></p>
+
+<p>Дискриминант равен нулю, значит уравнение имеет один корень.</p>
+
+<p>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p><img width=169 height=48 src="/wp-content/uploads/algebra/211/image116.jpg" ></p>
+
+<p>Ответ этого уравнения: 
+<img width=32 height=19 src="/wp-content/uploads/algebra/211/image118.jpg" >.</p>
+
+<p>Отметим найденные критические точки и соответствующие им интервалы на числовой прямой.</p>
+
+<p><img width=408 height=51 src="/wp-content/uploads/algebra/211/image120.jpg" ></p>
+
+<p>Расчет знаков.</p>
+
+<p>Случай 1:</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/algebra/211/image122.jpg" ></p>
+
+<p>Пусть</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/algebra/211/image084.jpg" ></p>
+
+<p><img width=210 height=68 src="/wp-content/uploads/algebra/211/image124.jpg" ></p>
+
+<p>Итак, этот случай удовлетворяет неравенству.</p>
+
+<p>Случай 2 :</p>
+
+<p><img width=66 height=19 src="/wp-content/uploads/algebra/211/image126.jpg" ></p>
+
+<p>Пусть</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/algebra/211/image128.jpg" ></p>]]></content:encoded>
+			<wp:post_id>1</wp:post_id>
+			<category><![CDATA[Без рубрики]]></category>
+			<category domain="category" nicename="bez-rubriki"><![CDATA[Без рубрики]]></category>
+			<wp:post_date>2013-10-02 11:52</wp:post_date>
+			<wp:post_date_gmt>2013-10-02 11:52</wp:post_date_gmt>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+		</item>
+	</channel>
+</rss>

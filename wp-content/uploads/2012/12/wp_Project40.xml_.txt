@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="textKit (http://textkit.ru/)" created="2012-12-12 14:10"-->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.0/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.0/"
+>
+	<channel>
+		<title>Project1</title>
+		<description>textKit Generated Content</description>
+		<wp:wxr_version>1.0</wp:wxr_version>
+		<wp:category>
+			<wp:category_nicename>bez-rubriki</wp:category_nicename>
+			<wp:cat_name><![CDATA[Без рубрики]]></wp:cat_name>
+		</wp:category>
+		<item>
+			<title>Безымянный</title>
+			<wp:post_name>bezymyannyj</wp:post_name>
+			<pubDate>Wed, 12 Dec 2012 14:10:02 GMT</pubDate>
+			<content:encoded><![CDATA[<p>Исследуем функции  онлайн, содержащей многочлен пятой степени в числителе и седьмой в знаменателе.</p>
+
+<p><img width=195 height=68 src="/wp-content/uploads/analis/40/image002.jpg" ></p>
+
+<p>Если на тестах по математике попалась такая функция, то надо вначале  найти область определения:</p>
+
+<p><img width=71 height=19 src="/wp-content/uploads/analis/40/image004.jpg" ></p>
+
+<p>Данная функция определена для всех значений</p>
+
+<p><img width=31 height=19 src="/wp-content/uploads/analis/40/image006.jpg" ></p>
+
+<p>Полученное решение отметим на рисунке.</p>
+
+<p><img width=250 height=31 src="/wp-content/uploads/analis/40/image008.jpg" ></p>
+
+<p>Ответ:</p>
+
+<p><img width=71 height=19 src="/wp-content/uploads/analis/40/image004.jpg" ></p>
+
+<p>Найдем первую производную:</p>
+
+<p><img width=154 height=50 src="/wp-content/uploads/analis/40/image010.jpg" ></p>
+
+<p>Производная суммы равна сумме производных.</p>
+
+<p><img width=155 height=46 src="/wp-content/uploads/analis/40/image012.jpg" ></p>
+
+<p>Воспользуемся формулой производной частного.</p>
+
+<p><img width=230 height=50 src="/wp-content/uploads/analis/40/image014.jpg" ></p>
+
+<p>Воспользуемся свойством степеней.</p>
+
+<p><img width=312 height=52 src="/wp-content/uploads/analis/40/image016.jpg" ></p>
+
+<p>Раскрываем скобки и выносим общий множитель.</p>
+
+<p><img width=250 height=68 src="/wp-content/uploads/analis/40/image018.jpg" ></p>
+
+<p>Воспользуемся свойством степеней.</p>
+
+<p><img width=215 height=68 src="/wp-content/uploads/analis/40/image020.jpg" ></p>
+
+<p>Изменим знаки выражений на противоположные.</p>
+
+<p><img width=201 height=68 src="/wp-content/uploads/analis/40/image022.jpg" ></p>
+
+<p>Вторая производная: 
+<img width=239 height=68 src="/wp-content/uploads/analis/40/image024.jpg" ></p>
+
+<p>Вторая производная это производная от первой производной.</p>
+
+<p><img width=249 height=68 src="/wp-content/uploads/analis/40/image026.jpg" ></p>
+
+<p>Производная суммы равна сумме производных.</p>
+
+<p><img width=273 height=68 src="/wp-content/uploads/analis/40/image028.jpg" ></p>
+
+<p>Воспользуемся формулой производной частного.</p>
+
+<p><img width=470 height=82 src="/wp-content/uploads/analis/40/image030.jpg" ></p>
+
+<p>Воспользуемся свойством степеней.</p>
+
+<p><img width=485 height=68 src="/wp-content/uploads/analis/40/image032.jpg" ></p>
+
+<p>Раскрываем скобки и выносим общий множитель, выполняя преобразование выражений.</p>
+
+<p><img width=280 height=68 src="/wp-content/uploads/analis/40/image034.jpg" ></p>
+
+<p>Воспользуемся свойством степеней.</p>
+
+<p><img width=222 height=68 src="/wp-content/uploads/analis/40/image036.jpg" ></p>
+
+<p>Изменим знаки выражений на противоположные.</p>
+
+<p><img width=192 height=68 src="/wp-content/uploads/analis/40/image038.jpg" ></p>
+
+<p>Точки пересечения с осью 
+<img width=9 height=19 src="/wp-content/uploads/analis/40/image040.jpg" >: Не могут быть найдены точно с помощью UMS.</p>
+
+<p>Для нахождения точек пересечения с осью абсцисс приравняем функцию к нулю.</p>
+
+<p><img width=174 height=68 src="/wp-content/uploads/analis/40/image042.jpg" ></p>
+
+<p>Разложим числитель и знаменатель дроби на множители.</p>
+
+<p><img width=191 height=68 src="/wp-content/uploads/analis/40/image044.jpg" ></p>
+
+<p>Производим сокращение.</p>
+
+<p><img width=166 height=68 src="/wp-content/uploads/analis/40/image046.jpg" ></p>
+
+<p><img width=166 height=68 src="/wp-content/uploads/analis/40/image048.jpg" ></p>
+
+<p>Приводим дроби к общему знаменателю.</p>
+
+<p><img width=190 height=68 src="/wp-content/uploads/analis/40/image050.jpg" ></p>
+
+<p>Производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p><img width=192 height=68 src="/wp-content/uploads/analis/40/image052.jpg" ></p>
+
+<p>Дробь обращается в нуль тогда, когда числитель равен нулю.</p>
+
+<p><img width=178 height=29 src="/wp-content/uploads/analis/40/image054.jpg" ></p>
+
+<p>Раскрываем скобки, пользуясь  правилом раскрытия скобок.</p>
+
+<p><img width=162 height=29 src="/wp-content/uploads/analis/40/image056.jpg" ></p>
+
+<p>Решение данного примера выходит за рамки школьного курса.</p>
+
+<p>Советуем проверить условие.</p>
+
+<p>Точки пересечения с осью 
+<img width=11 height=19 src="/wp-content/uploads/analis/40/image058.jpg" >: нет</p>
+
+<p>Вертикальные асимптоты: 
+<img width=32 height=19 src="/wp-content/uploads/analis/40/image060.jpg" ></p>
+
+<p>Для нахождения вертикальных асимтот упростим выражение.</p>
+
+<p><img width=151 height=68 src="/wp-content/uploads/analis/40/image062.jpg" ></p>
+
+<p>Разложим числитель и знаменатель дроби на множители.</p>
+
+<p><img width=168 height=68 src="/wp-content/uploads/analis/40/image064.jpg" ></p>
+
+<p>Производим сокращение.</p>
+
+<p><img width=143 height=68 src="/wp-content/uploads/analis/40/image066.jpg" ></p>
+
+<p><img width=143 height=68 src="/wp-content/uploads/analis/40/image068.jpg" ></p>
+
+<p>Определим значения аргумента, при которых знаменатель функции обращается в ноль</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/analis/40/image060.jpg" ></p>
+
+<p>Горизонтальные асимптоты: нет .</p>
+
+<p>Наклонные асимптоты: 
+<img width=54 height=19 src="/wp-content/uploads/analis/40/image070.jpg" > .</p>
+
+<p><img width=151 height=68 src="/wp-content/uploads/analis/40/image072.jpg" ></p>
+
+<p>Предел разности исходной функции и функции 
+<img width=31 height=19 src="/wp-content/uploads/analis/40/image074.jpg" > на бесконечности равен нулю.</p>
+
+<p>Критические точки: Не могут быть найдены точно с помощью UMS.</p>
+
+<p>Для нахождения критических точек приравняем первую производную к нулю и решим полученное уравнение.</p>
+
+<p><img width=217 height=68 src="/wp-content/uploads/analis/40/image076.jpg" ></p>
+
+<p>Разложим числитель и знаменатель дроби на множители.</p>
+
+<p><img width=223 height=68 src="/wp-content/uploads/analis/40/image078.jpg" ></p>
+
+<p>Производим сокращение.</p>
+
+<p><img width=198 height=68 src="/wp-content/uploads/analis/40/image080.jpg" ></p>
+
+<p><img width=186 height=68 src="/wp-content/uploads/analis/40/image082.jpg" ></p>
+
+<p>Приводим дроби к общему знаменателю.</p>
+
+<p><img width=219 height=68 src="/wp-content/uploads/analis/40/image084.jpg" ></p>
+
+<p>Производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p><img width=221 height=68 src="/wp-content/uploads/analis/40/image086.jpg" ></p>
+
+<p>Дробь обращается в нуль тогда, когда числитель равен нулю.</p>
+
+<p><img width=207 height=29 src="/wp-content/uploads/analis/40/image088.jpg" ></p>
+
+<p>Раскрываем скобки.</p>
+
+<p><img width=195 height=29 src="/wp-content/uploads/analis/40/image090.jpg" ></p>
+
+<p>Решение данного примера выходит за рамки школьного курса.</p>
+
+<p>Советуем проверить условие.</p>
+
+<p>Возможные точки перегиба: Не могут быть найдены точно с помощью UMS.</p>
+
+<p>Для нахождения возможных точек перегиба приравняем вторую производную к нулю и решим полученное уравнение.</p>
+
+<p><img width=208 height=68 src="/wp-content/uploads/analis/40/image092.jpg" ></p>
+
+<p>Дробь обращается в нуль тогда, когда числитель равен нулю.</p>
+
+<p><img width=194 height=29 src="/wp-content/uploads/analis/40/image094.jpg" ></p>
+
+<p>Следующее уравнение равносильно предыдущему.</p>
+
+<p><img width=150 height=29 src="/wp-content/uploads/analis/40/image096.jpg" ></p>
+
+<p>Решаем уравнение методом разложения на множители.</p>
+
+<p>Выносим общий множитель.</p>
+
+<p><img width=156 height=29 src="/wp-content/uploads/analis/40/image098.jpg" ></p>
+
+<p>Теперь решение исходного уравнения разбивается на отдельные случаи.</p>
+
+<p>Случай 1</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/analis/40/image060.jpg" ></p>
+
+<p>Итак, ответ этого случая:</p>
+
+<p><img width=32 height=19 src="/wp-content/uploads/analis/40/image060.jpg" ></p>
+
+<p>Случай 2</p>
+
+<p><img width=131 height=29 src="/wp-content/uploads/analis/40/image100.jpg" ></p>
+
+<p>Решение данного примера выходит за рамки школьного курса.</p>
+
+<p>Советуем проверить условие.</p>
+
+<p>Решение данного примера выходит за рамки школьного курса.</p>
+
+<p>Советуем проверить условие.</p>
+
+<p>Точки разрыва: 
+<img width=32 height=19 src="/wp-content/uploads/analis/40/image060.jpg" ></p>
+
+<p>Симметрия относительно оси ординат: нет</p>
+
+<p>Функция f(x) называется четной, если f(-x)f(x).</p>
+
+<p><img width=90 height=19 src="/wp-content/uploads/analis/40/image102.jpg" ></p>
+
+<p><img width=507 height=68 src="/wp-content/uploads/analis/40/image104.jpg" ></p>
+
+<p>Раскрываем скобки и выносим знак минус из произведения.</p>
+
+<p><img width=343 height=68 src="/wp-content/uploads/analis/40/image106.jpg" ></p>
+
+<p>Приводим подобные члены.</p>
+
+<p><img width=300 height=68 src="/wp-content/uploads/analis/40/image108.jpg" ></p>
+
+<p>Выносим знак минус из произведения.</p>
+
+<p><img width=284 height=68 src="/wp-content/uploads/analis/40/image110.jpg" ></p>
+
+<p>Разложим числитель и знаменатель дроби на множители.</p>
+
+<p><img width=318 height=68 src="/wp-content/uploads/analis/40/image112.jpg" ></p>
+
+<p>Производим сокращение первой и второй дроби</p>
+
+<p><img width=268 height=68 src="/wp-content/uploads/analis/40/image114.jpg" ></p>
+
+<p>Производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p><img width=286 height=68 src="/wp-content/uploads/analis/40/image116.jpg" ></p>
+
+<p>Раскрываем скобки.</p>
+
+<p><img width=258 height=68 src="/wp-content/uploads/analis/40/image118.jpg" ></p>
+
+<p>Приводим подобные члены.</p>
+
+<p><img width=144 height=68 src="/wp-content/uploads/analis/40/image120.jpg" ></p>
+
+<p>Приводим дроби к общему знаменателю.</p>
+
+<p><img width=168 height=68 src="/wp-content/uploads/analis/40/image122.jpg" ></p>
+
+<p>Производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p><img width=142 height=68 src="/wp-content/uploads/analis/40/image124.jpg" ></p>
+
+<p>Разложим числитель дроби на множители.</p>
+
+<p><img width=158 height=68 src="/wp-content/uploads/analis/40/image126.jpg" ></p>
+
+<p>Производим сокращение.</p>
+
+<p><img width=133 height=68 src="/wp-content/uploads/analis/40/image128.jpg" ></p>
+
+<p>Разложим числитель дроби на множители.</p>
+
+<p><img width=154 height=68 src="/wp-content/uploads/analis/40/image130.jpg" ></p>
+
+<p><img width=83 height=19 src="/wp-content/uploads/analis/40/image132.jpg" ></p>
+
+<p>Симметрия относительно начала координат: нет</p>
+
+<p>Функция f(x) называется нечетной, если f(-x)-f(x).</p>
+
+<p><img width=94 height=19 src="/wp-content/uploads/analis/40/image134.jpg" ></p>
+
+<p><img width=511 height=68 src="/wp-content/uploads/analis/40/image136.jpg" ></p>
+
+<p>Раскрываем скобки.</p>
+
+<p><img width=415 height=68 src="/wp-content/uploads/analis/40/image138.jpg" ></p>
+
+<p>Выносим знак минус из произведения.</p>
+
+<p><img width=335 height=68 src="/wp-content/uploads/analis/40/image140.jpg" ></p>
+
+<p><img width=335 height=68 src="/wp-content/uploads/analis/40/image142.jpg" ></p>
+
+<p>Производим сокращение и выносим знак минус из произведения.</p>
+
+<p><img width=245 height=68 src="/wp-content/uploads/analis/40/image144.jpg" ></p>
+
+<p>Разложим числитель и знаменатель дроби на множители.</p>
+
+<p><img width=229 height=68 src="/wp-content/uploads/analis/40/image146.jpg" ></p>
+
+<p>Производим сложение дробей с одинаковыми знаменателями. При этом получаем в ответе</p>
+
+<p><img width=80 height=68 src="/wp-content/uploads/analis/40/image148.jpg" ></p>
+
+<p>Разложим числитель дроби на множители.</p>
+
+<p><img width=101 height=68 src="/wp-content/uploads/analis/40/image150.jpg" ></p>
+
+<p><img width=91 height=19 src="/wp-content/uploads/analis/40/image152.jpg" ></p>
+
+<p>Данные таблицы нанесем на координатную плоскость.</p>
+
+<p>Используя результаты исследования функции, построим ее график.</p>
+
+<p><img width=269 height=269 src="/wp-content/uploads/analis/40/image154.jpg" ></p>]]></content:encoded>
+			<wp:post_id>1</wp:post_id>
+			<category><![CDATA[Без рубрики]]></category>
+			<category domain="category" nicename="bez-rubriki"><![CDATA[Без рубрики]]></category>
+			<wp:post_date>2012-12-12 14:10</wp:post_date>
+			<wp:post_date_gmt>2012-12-12 14:10</wp:post_date_gmt>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+		</item>
+	</channel>
+</rss>

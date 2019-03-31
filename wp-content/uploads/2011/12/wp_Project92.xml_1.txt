@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="textKit (http://textkit.ru/)" created="2011-12-31 18:21"-->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.0/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.0/"
+>
+	<channel>
+		<title>Project1</title>
+		<description>textKit Generated Content</description>
+		<wp:wxr_version>1.0</wp:wxr_version>
+		<wp:category>
+			<wp:category_nicename>bez-rubriki</wp:category_nicename>
+			<wp:cat_name><![CDATA[Без рубрики]]></wp:cat_name>
+		</wp:category>
+		<item>
+			<title>Тесты по математике. Решить квадратное уравнение наиболее оптимальным способом.</title>
+			<wp:post_name>testy-po-matematike-reshit-kvadratnoe-uravnenie-naibolee-optimalnym-sposobom</wp:post_name>
+			<pubDate>Sat, 31 Dec 2011 18:20:53 GMT</pubDate>
+			<content:encoded><![CDATA[<p>Тесты по математике. Решить квадратное уравнение наиболее оптимальным способом.</p>
+
+<p><img width=310 height=62 src="/wp-content/uploads/algebra/92/image002.jpg" ></p>
+
+<p>Для дальнейшего упрощения этого теста по математике перенесем все в левую часть.</p>
+
+<p><img width=338 height=62 src="/wp-content/uploads/algebra/92/image004.jpg" ></p>
+
+<p>Для того, чтобы решить такие  тесты по математике оптимальным способом  приводим дроби к общему знаменателю.</p>
+
+<p><img width=374 height=62 src="/wp-content/uploads/algebra/92/image006.jpg" ></p>
+
+<p>Производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p><img width=346 height=62 src="/wp-content/uploads/algebra/92/image008.jpg" ></p>
+
+<p>Воспользуемся формулой квадрата разности.</p>
+
+<p>Воспользуемся формулой квадрата суммы.</p>
+
+<p><img width=452 height=62 src="/wp-content/uploads/algebra/92/image010.jpg" ></p>
+
+<p>Раскрываем скобки.</p>
+
+<p><img width=491 height=62 src="/wp-content/uploads/algebra/92/image012.jpg" ></p>
+
+<p>Приводим подобные члены.</p>
+
+<p><img width=461 height=62 src="/wp-content/uploads/algebra/92/image014.jpg" ></p>
+
+<p>Раскрываем скобки.</p>
+
+<p><img width=421 height=62 src="/wp-content/uploads/algebra/92/image016.jpg" ></p>
+
+<p>Для того, чтобы решить такие  тесты по математике мы приводим подобные члены.</p>
+
+<p><img width=195 height=62 src="/wp-content/uploads/algebra/92/image018.jpg" ></p>
+
+<p>Приводим дроби к общему знаменателю.</p>
+
+<p><img width=221 height=62 src="/wp-content/uploads/algebra/92/image020.jpg" ></p>
+
+<p>Производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p><img width=225 height=62 src="/wp-content/uploads/algebra/92/image022.jpg" ></p>
+
+<p>Раскрываем скобки.</p>
+
+<p><img width=207 height=62 src="/wp-content/uploads/algebra/92/image024.jpg" ></p>
+
+<p>Такие тесты по математике значительно упрощаются после того, как мы приводим подобные члены.</p>
+
+<p><img width=162 height=62 src="/wp-content/uploads/algebra/92/image026.jpg" ></p>
+
+<p>Такие тесты по математике значительно упрощаются после того, как изменяем порядок действий.</p>
+
+<p><img width=162 height=62 src="/wp-content/uploads/algebra/92/image028.jpg" ></p>
+
+<p>Разложим числитель дроби на множители.</p>
+
+<p><img width=168 height=62 src="/wp-content/uploads/algebra/92/image030.jpg" ></p>
+
+<p>Дробь обращается в нуль тогда, когда числитель равен нулю.</p>
+
+<p><img width=112 height=31 src="/wp-content/uploads/algebra/92/image032.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=243 height=31 src="/wp-content/uploads/algebra/92/image034.jpg" ></p>
+
+<p>Дискриминант положителен, значит уравнение имеет два корня.</p>
+
+<p>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p><img width=130 height=62 src="/wp-content/uploads/algebra/92/image036.jpg" ></p>
+
+<p><img width=244 height=52 src="/wp-content/uploads/algebra/92/image038.jpg" ></p>
+
+<p>Окончательный ответ:</p>
+
+<p><img width=96 height=21 src="/wp-content/uploads/algebra/92/image040.jpg" >.</p>]]></content:encoded>
+			<wp:post_id>1</wp:post_id>
+			<category><![CDATA[Без рубрики]]></category>
+			<category domain="category" nicename="bez-rubriki"><![CDATA[Без рубрики]]></category>
+			<wp:post_date>2011-12-31 18:20</wp:post_date>
+			<wp:post_date_gmt>2011-12-31 18:20</wp:post_date_gmt>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+		</item>
+	</channel>
+</rss>

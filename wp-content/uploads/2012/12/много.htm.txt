@@ -1,0 +1,298 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="много.files/filelist.xml">
+<title>Разложить многочлен на множители означает превратить многочлен на
+произведение двух или нескольких многочленов</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>1</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>1</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>16</o:TotalTime>
+  <o:Created>2012-12-28T09:31:00Z</o:Created>
+  <o:LastSaved>2012-12-28T09:31:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>379</o:Words>
+  <o:Characters>2164</o:Characters>
+  <o:Company>RePack by SPecialiST</o:Company>
+  <o:Lines>18</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2538</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:204;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.hps
+	{mso-style-name:hps;}
+span.shorttext
+	{mso-style-name:short_text;}
+span.hpsatn
+	{mso-style-name:"hps atn";}
+span.atn
+	{mso-style-name:atn;}
+span.start-tag
+	{mso-style-name:start-tag;}
+span.attribute-name
+	{mso-style-name:attribute-name;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Обычная таблица";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=RU link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal><span class=hps>Разложить</span> <span class=hps>многочлен</span>
+<span class=hps>на множители</span> <span class=hps>означает превратить</span> <span
+class=hps>многочлен</span> <span class=hps>на произведение</span> <span
+class=hps>двух или нескольких</span> <span class=hps>многочленов.</span> <span
+class=hps>Есть четыре способа</span> <span class=hps>разложения</span> <span
+class=hps>многочлена</span> <span class=hps>на множители.</span><br>
+<br>
+<span class=hps>Один из них -</span> <span class=hps>это вынесение</span> <span
+class=hps>общего множителя</span> <span class=hps>за скобки.</span><br>
+<br>
+<span class=GramE><span class=hps>Чтобы вынести</span> <span class=hps>общий
+множитель</span> <span class=hps>за скобки</span>, <span class=hps>надо:</span><br>
+<br>
+<span class=hps>1)</span> <span class=hps>найти общий</span> <span class=hps>множитель;</span><br>
+<br>
+<span class=hps>2)</span> <span class=hps>разделить на</span> <span class=hps>него
+каждый</span> <span class=hps>член</span> <span class=hps>многочлена</span> <span
+class=hps>и полученную сумму</span> <span class=hps>взять в</span> <span
+class=hps>скобки;</span><br>
+<br>
+<span class=hps>3)</span> <span class=hps>записать</span> <span class=hps>произведение</span>
+<span class=hps>общего множителя</span> <span class=hps>на</span> <span
+class=hps>полученную сумму.</span></span><br>
+<br>
+<br>
+<span class=hps>Примечание:</span> <span class=hps>если при вынесении</span> <span
+class=hps>за скобки</span> <span class=hps>общий множитель</span> <span
+class=hps>выносится</span> <span class=hps>со знаком</span> <span class=hps>«-»</span>,
+<span class=hps>то знаки</span> <span class=hps>слагаемых в</span> <span
+class=hps>скобках</span> <span class=hps>меняются <span class=GramE>на</span>
+противоположные.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=hps><o:p>&nbsp;</o:p></span></p>
+
+<p><span class=hps>Пример 1.</span><span class=shorttext> </span><span
+class=hps>Разложить на множители</span><span class=shorttext> </span><span
+class=hps>многочлен</span><span style='mso-spacerun:yes'>  </span>12х<sup>2</sup>у-18х<sup>2</sup>у<sup>2</sup></p>
+
+<p><span class=hps>Сначала</span> <span class=hps>найдем общий</span> <span
+class=hps>числовой множитель</span> <span class=hps>для коэффициентов</span> <span
+class=hps>12 и</span> <span class=hps>-18,</span> <span class=hps>если</span> <span
+class=hps>коэффициентами</span> <span class=hps>являются целые числа</span>, <span
+class=hps>то</span> <span class=hps>за общий</span> <span class=hps>числовой
+множитель</span> <span class=hps>берут, как</span> <span class=hps>правило</span>,
+<span class=hps>наибольший общий делитель</span> <span class=hps>модулей</span>
+<span class=hps>этих коэффициентов.</span> <span class=hps>В нашем</span> <span
+class=hps>случае - это</span> <span class=hps>число 6.</span> <span class=hps>Степени</span>
+<span class=hps>с основанием</span> <span class=SpellE><span class=hps>х</span></span>
+<span class=hps>входят</span> <span class=hps>в</span> <span class=hps>оба
+члена</span> <span class=hps>многочлена.</span> <span class=hps>Поскольку
+первый</span> <span class=hps>член</span> <span class=hps>содержит</span> х<sup>3</sup>=х<span
+class=GramE><sup>2</sup></span> <span class=SpellE>х</span>, а другой<span
+style='mso-spacerun:yes'>  </span>- х<sup>2</sup>, <span class=hps>то</span><span
+class=shorttext> </span><span class=hps>общий множителем</span><span
+class=shorttext> </span><span class=hps>для степеней</span><span
+class=shorttext> </span><span class=hps>с основанием</span> <span class=SpellE>х</span>
+<span class=SpellE>є</span> х<sup>2</sup> <span class=hpsatn>(</span>за скобки <span
+class=hps>выносят</span> <span class=hps>переменную</span> <span class=hps>с
+меньшим показателем</span>). <span class=hps>В члены</span> <span class=hps>многочлена</span>
+<span class=hps>входят соответственно</span> <span class=hps>множители</span> у
+<span class=SpellE>і</span> у<span class=GramE><sup>2</sup></span>, за скобки
+можно вынести у. Таким образом, за скобки можно вынести<span
+style='mso-spacerun:yes'>  </span>6х<sup>2</sup>у: </p>
+
+<p>12х<sup>2</sup>у-18х<sup>2</sup>у<sup>2</sup>=6х<sup>2</sup>у 2х-6х<sup>2</sup>у
+3у=6х<sup>2</sup>у(2х-3у). </p>
+
+<p><span class=hps>Пример.</span><span class=shorttext> </span><span class=hps>Разложить</span><span
+class=shorttext> </span><span class=hps>на</span><span class=shorttext> </span><span
+class=hps>множители</span><span class=shorttext> </span><span class=hps>многочлен</span>
+5<span class=GramE>х(</span><span class=SpellE>а-с</span>)+3(<span
+class=SpellE>а-с</span>) </p>
+
+<p><span class=hps>Данное выражение</span> <span class=hps>является суммой двух</span>
+<span class=hps>слагаемых</span>, <span class=hps>для которых</span> <span
+class=hps>общим</span> <span class=hps>множителем</span> <span class=hps>есть
+выражение</span> <span class=SpellE><span class=hps>а</span>-с</span>. <span
+class=hps>Вынесем этот</span> <span class=hps>множитель за</span> <span
+class=hps>скобки:</span>5<span class=GramE>х(</span><span class=SpellE>а-с</span>)+3(<span
+class=SpellE>а-с</span>)=(<span class=SpellE>а-с</span>)(5х+3) </p>
+
+<p><span class=hps>Разложить</span><span class=shorttext> </span><span
+class=hps>на</span><span class=shorttext> </span><span class=hps>множители</span><span
+class=shorttext> </span><span class=hps>многочлен </span><span
+style='mso-spacerun:yes'> </span>2<span class=GramE>х(</span><span
+class=SpellE>а-с</span>)+у(<span class=SpellE>с-а</span>) </p>
+
+<p><span class=hps>Слагаемые</span> <span class=hps>имеют</span> <span
+class=hps>множители</span> <span class=SpellE><span class=hps>а-с</span></span>
+<span class=hpsatn>и <span class=SpellE><span class=GramE>с-а</span></span></span>,
+<span class=hps>которые отличаются только</span> <span class=hps>знаками.</span>
+<span class=hps>В выражении</span> <span class=SpellE><span class=GramE><span
+class=hpsatn>с-</span>а</span></span> <span class=hps>вынесем за скобки</span> <span
+class=hps>-1,</span> <span class=hps>тогда</span> <span class=hps>второе
+слагаемое</span> <span class=hps>будет иметь <span class=SpellE>вид<span
+class=atn>-у</span></span></span><span class=atn> (</span><span class=SpellE>а-с</span>)
+<span class=hps>и оба</span> <span class=hps>слагаемые</span> <span class=hps>будут</span>
+<span class=hps>общий множитель</span> <span class=SpellE><span class=hps>а</span>-с</span>.
+Таким образом, 2<span class=GramE>х(</span><span class=SpellE>а-с</span>)+у(<span
+class=SpellE>с-а</span>)= 2х(<span class=SpellE>а-с</span>)-у(<span
+class=SpellE>а-с</span>)=(<span class=SpellE>а-с</span>)(2х-у) </p>
+
+<p>Приклад 5<b>.</b> <span lang=UK style='mso-ansi-language:UK'>Найти </span>значение
+выражения <span style='mso-ansi-language:UK'><span
+style='mso-spacerun:yes'> </span></span><span
+style='mso-spacerun:yes'> </span>8,5а<sup>2</sup>+а<sup>3</sup>, если а=1,5 </p>
+
+<p>Разложим сначала <span style='mso-spacerun:yes'> </span>8,5а<span
+class=GramE><sup>2</sup></span>+а<sup>3</sup> <span class=hps>на</span><span
+class=shorttext> </span><span class=hps>множители</span> </p>
+
+<p>8,5а<span class=GramE><sup>2</sup></span>+а<sup>3</sup>.=а<sup>2</sup>(8,5+а)
+</p>
+
+<p>Если<span style='mso-spacerun:yes'>  </span>а=1,5, то<span class=GramE> :</span>
+</p>
+
+<p>а<span class=GramE><sup>2</sup></span>(8,5+а)=1,5<sup>2</sup>(8,5+1,5)=2,25*10=22,5
+</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>В данном видео представлены еще несколько примеров разложения
+многочленов на множители </p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+lang=EN-US style='mso-ansi-language:EN-US'>&lt;<span class=start-tag>div</span><span
+class=attribute-name> align</span>=</span><span lang=EN-US style='font-family:
+Tahoma;mso-ansi-language:EN-US'>&quot;center&quot;</span><span lang=EN-US
+style='mso-ansi-language:EN-US'>&gt;&lt;object width=&quot;425&quot;
+height=&quot;344&quot;&gt;&lt;<span class=SpellE>param</span>
+name=&quot;movie&quot;
+value=&quot;http://www.youtube.com/v/v1IxRBvPF4Y?hl=ru_RU&amp;amp;version=3&quot;&gt;&lt;/param&gt;&lt;param
+name=&quot;<span class=SpellE>allowFullScreen</span>&quot;
+value=&quot;true&quot;&gt;&lt;/<span class=SpellE>param</span>&gt;&lt;<span
+class=SpellE>param</span> name=&quot;<span class=SpellE>allowscriptaccess</span>&quot;
+value=&quot;always&quot;&gt;&lt;/<span class=SpellE>param</span>&gt;&lt;embed
+src=&quot;http://www.youtube.com/v/v1IxRBvPF4Y?hl=ru_RU&amp;amp;version=3&quot;
+type=&quot;application/x-shockwave-flash&quot; width=&quot;425&quot;
+height=&quot;344&quot; <span class=SpellE>allowscriptaccess</span>=&quot;always&quot;
+<span class=SpellE>allowfullscreen</span>=&quot;true&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:106.2pt;text-align:justify;text-indent:
+35.4pt'><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

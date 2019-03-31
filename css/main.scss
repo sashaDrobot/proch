@@ -471,6 +471,23 @@ ul li {
   background: url(https://images.unsplash.com/photo-1474929743204-8f756140cb14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
 }
 
+.links, .links:hover, .links:focus, .links:active {
+  text-decoration: none;
+  color: #444444;
+  font-weight: 400;
+}
+
+.links.active {
+  color: #1f1f1f;
+  font-weight: bolder;
+}
+
+.math-content {
+  h1, h2 {
+    font-size: 1.2rem
+  }
+}
+
 /** media **/
 @media screen and (max-width: 576px) {
   .blog-container {

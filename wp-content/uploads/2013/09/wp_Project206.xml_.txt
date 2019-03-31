@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="textKit (http://textkit.ru/)" created="2013-09-22 11:47"-->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.0/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.0/"
+>
+	<channel>
+		<title>Project1</title>
+		<description>textKit Generated Content</description>
+		<wp:wxr_version>1.0</wp:wxr_version>
+		<wp:category>
+			<wp:category_nicename>bez-rubriki</wp:category_nicename>
+			<wp:cat_name><![CDATA[Без рубрики]]></wp:cat_name>
+		</wp:category>
+		<item>
+			<title>Решение систем линейных уравнений с двойными неравенствами</title>
+			<wp:post_name>reshenie-sistem-linejnyx-uravnenij-s-dvojnymi-neravenstvami</wp:post_name>
+			<pubDate>Sun, 22 Sep 2013 11:46:59 GMT</pubDate>
+			<content:encoded><![CDATA[<p>Решение систем линейных уравнений с двойными неравенствами</p>
+
+<p><img width=115 height=87 src="/wp-content/uploads/algebra/206/image002.jpg" ></p>
+
+<p>Двойное неравенство эквивалентно системе неравенств.</p>
+
+<p><img width=110 height=116 src="/wp-content/uploads/algebra/206/image004.jpg" ></p>
+
+<p><img width=101 height=116 src="/wp-content/uploads/algebra/206/image006.jpg" ></p>
+
+<p>Случай 
+<img width=11 height=19 src="/wp-content/uploads/algebra/206/image008.jpg" >.</p>
+
+<p><img width=74 height=29 src="/wp-content/uploads/algebra/206/image010.jpg" ></p>
+
+<p>Перенесем все в левую часть.</p>
+
+<p><img width=89 height=29 src="/wp-content/uploads/algebra/206/image012.jpg" ></p>
+
+<p><img width=78 height=29 src="/wp-content/uploads/algebra/206/image014.jpg" ></p>
+
+<p>Изменим знаки выражений на противоположные.</p>
+
+<p>При умножении неравенства на отрицательное число знак неравенства меняется на противоположный.</p>
+
+<p><img width=74 height=29 src="/wp-content/uploads/algebra/206/image016.jpg" ></p>
+
+<p>Следующее неравенство равносильно предыдущему.</p>
+
+<p><img width=76 height=19 src="/wp-content/uploads/algebra/206/image018.jpg" ></p>
+
+<p><img width=220 height=27 src="/wp-content/uploads/algebra/206/image020.jpg" ></p>
+
+<p>Итак,ответ этого случая:</p>
+
+<p><img width=79 height=19 src="/wp-content/uploads/algebra/206/image022.jpg" >.</p>
+
+<p>Случай 2</p>
+
+<p><img width=74 height=29 src="/wp-content/uploads/algebra/206/image024.jpg" ></p>
+
+<p>Перенесем все в левую часть.</p>
+
+<p><img width=93 height=29 src="/wp-content/uploads/algebra/206/image026.jpg" ></p>
+
+<p>Решаем вспомогательное уравнение.</p>
+
+<p><img width=93 height=29 src="/wp-content/uploads/algebra/206/image028.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=223 height=29 src="/wp-content/uploads/algebra/206/image030.jpg" ></p>
+
+<p>Дискриминант положителен, значит уравнение имеет два корня.</p>
+
+<p>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p><img width=125 height=58 src="/wp-content/uploads/algebra/206/image032.jpg" ></p>
+
+<p><img width=236 height=48 src="/wp-content/uploads/algebra/206/image034.jpg" ></p>
+
+<p>Следующее неравенство равносильно предыдущему.</p>
+
+<p><img width=107 height=19 src="/wp-content/uploads/algebra/206/image036.jpg" ></p>
+
+<p><img width=408 height=51 src="/wp-content/uploads/algebra/206/image038.jpg" ></p>
+
+<p>Итак,ответ этого случая: 
+<img width=63 height=19 src="/wp-content/uploads/algebra/206/image040.jpg" >.</p>
+
+<p>Случай 3.</p>
+
+<p><img width=83 height=58 src="/wp-content/uploads/algebra/206/image042.jpg" ></p>
+
+<p>Случай 3.1</p>
+
+<p><img width=61 height=29 src="/wp-content/uploads/algebra/206/image044.jpg" ></p>
+
+<p>Следующее неравенство равносильно предыдущему.</p>
+
+<p><img width=107 height=19 src="/wp-content/uploads/algebra/206/image046.jpg" ></p>
+
+<p><img width=408 height=51 src="/wp-content/uploads/algebra/206/image048.jpg" ></p>
+
+<p>Итак,ответ этого случая: 
+<img width=63 height=19 src="/wp-content/uploads/algebra/206/image050.jpg" >.</p>
+
+<p>Случай 3.2</p>
+
+<p><img width=73 height=29 src="/wp-content/uploads/algebra/206/image052.jpg" ></p>
+
+<p>Следующее неравенство равносильно предыдущему.</p>
+
+<p><img width=75 height=19 src="/wp-content/uploads/algebra/206/image054.jpg" ></p>
+
+<p><img width=408 height=51 src="/wp-content/uploads/algebra/206/image056.jpg" ></p>
+
+<p>Итак, ответ этого случая:</p>
+
+<p><img width=77 height=19 src="/wp-content/uploads/algebra/206/image058.jpg" >.</p>
+
+<p>Полученные решения отметим на рисунках. Найдем объединенное решение.</p>
+
+<p><img width=268 height=87 src="/wp-content/uploads/algebra/206/image060.jpg" ></p>
+
+<p>Итак, ответ этого случая:</p>
+
+<p><img width=86 height=19 src="/wp-content/uploads/algebra/206/image062.jpg" ></p>
+
+<p>Полученные решения отметим на рисунках.</p>
+
+<p>Находим общее решение.</p>
+
+<p><img width=322 height=138 src="/wp-content/uploads/algebra/206/image064.jpg" ></p>
+
+<p>Окончательный ответ: 
+<img width=55 height=19 src="/wp-content/uploads/algebra/206/image066.jpg" ></p>
+
+<p>Решим ещё одну систему неравенств</p>
+
+<p><img width=125 height=87 src="/wp-content/uploads/algebra/206/image068.jpg" ></p>
+
+<p>Двойное неравенство эквивалентно системе неравенств.</p>
+
+<p><img width=125 height=116 src="/wp-content/uploads/algebra/206/image070.jpg" ></p>
+
+<p><img width=125 height=116 src="/wp-content/uploads/algebra/206/image072.jpg" ></p>
+
+<p>Теперь решение разбивается на отдельные случаи.</p>
+
+<p>Случай 1</p>
+
+<p><img width=59 height=29 src="/wp-content/uploads/algebra/206/image074.jpg" ></p>
+
+<p>Перенесем все в левую часть.</p>
+
+<p><img width=82 height=29 src="/wp-content/uploads/algebra/206/image076.jpg" ></p>
+
+<p><img width=71 height=29 src="/wp-content/uploads/algebra/206/image078.jpg" ></p>
+
+<p>Изменим знаки выражений на противоположные.</p>
+
+<p>При умножении неравенства на отрицательное число знак неравенства меняется на противоположный.</p>
+
+<p><img width=59 height=29 src="/wp-content/uploads/algebra/206/image080.jpg" ></p>
+
+<p>Следующее неравенство равносильно предыдущему.</p>
+
+<p><img width=72 height=19 src="/wp-content/uploads/algebra/206/image082.jpg" ></p>
+
+<p><img width=316 height=40 src="/wp-content/uploads/algebra/206/image084.jpg" ></p>
+
+<p>Итак,ответ этого случая: 
+<img width=71 height=19 src="/wp-content/uploads/algebra/206/image086.jpg" >.</p>
+
+<p>Случай 
+<img width=11 height=19 src="/wp-content/uploads/algebra/206/image088.jpg" >.</p>
+
+<p><img width=59 height=29 src="/wp-content/uploads/algebra/206/image090.jpg" ></p>
+
+<p>Перенесем все в левую часть.</p>
+
+<p><img width=78 height=29 src="/wp-content/uploads/algebra/206/image092.jpg" ></p>
+
+<p>Решаем вспомогательное уравнение.</p>
+
+<p><img width=78 height=29 src="/wp-content/uploads/algebra/206/image094.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=243 height=29 src="/wp-content/uploads/algebra/206/image096.jpg" ></p>
+
+<p>Дискриминант положителен, значит уравнение имеет два корня.</p>
+
+<p>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p><img width=125 height=58 src="/wp-content/uploads/algebra/206/image032.jpg" ></p>
+
+<p><img width=406 height=58 src="/wp-content/uploads/algebra/206/image098.jpg" ></p>
+
+<p>Следующее неравенство равносильно предыдущему.</p>
+
+<p><img width=295 height=58 src="/wp-content/uploads/algebra/206/image100.jpg" ></p>
+
+<p><img width=316 height=70 src="/wp-content/uploads/algebra/206/image102.jpg" ></p>
+
+<p>Итак, ответ этого случая:</p>
+
+<p><img width=187 height=58 src="/wp-content/uploads/algebra/206/image104.jpg" >.</p>
+
+<p>Случай 
+<img width=11 height=19 src="/wp-content/uploads/algebra/206/image106.jpg" >.</p>
+
+<p><img width=107 height=58 src="/wp-content/uploads/algebra/206/image108.jpg" ></p>
+
+<p>Теперь решение разбивается на отдельные случаи.</p>
+
+<p>Случай 3.1</p>
+
+<p><img width=97 height=29 src="/wp-content/uploads/algebra/206/image110.jpg" ></p>
+
+<p>Решаем вспомогательное уравнение.</p>
+
+<p><img width=97 height=29 src="/wp-content/uploads/algebra/206/image112.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=199 height=29 src="/wp-content/uploads/algebra/206/image114.jpg" ></p>
+
+<p>Дискриминант равен нулю, значит уравнение имеет один корень.</p>
+
+<p>Старший коэффициент положителен.</p>
+
+<p>Квадратичная функция принимает только неотрицательные значения.</p>
+
+<p>Следующее неравенство равносильно предыдущему.</p>
+
+<p><img width=77 height=29 src="/wp-content/uploads/algebra/206/image116.jpg" ></p>
+
+<p><img width=334 height=42 src="/wp-content/uploads/algebra/206/image118.jpg" ></p>
+
+<p>Итак,ответ этого случая: нет решений.</p>
+
+<p>Случай 3.2</p>
+
+<p><img width=73 height=29 src="/wp-content/uploads/algebra/206/image120.jpg" ></p>
+
+<p>Следующее неравенство равносильно предыдущему.</p>
+
+<p><img width=75 height=19 src="/wp-content/uploads/algebra/206/image122.jpg" ></p>
+
+<p><img width=322 height=40 src="/wp-content/uploads/algebra/206/image124.jpg" ></p>
+
+<p>Итак,ответ этого случая: 
+<img width=77 height=19 src="/wp-content/uploads/algebra/206/image126.jpg" >.</p>
+
+<p>Полученные решения отметим на рисунках.</p>
+
+<p>Найдем объединенное решение.</p>
+
+<p><img width=292 height=82 src="/wp-content/uploads/algebra/206/image128.jpg" ></p>
+
+<p>Итак,ответ этого случая:</p>
+
+<p><img width=77 height=19 src="/wp-content/uploads/algebra/206/image126.jpg" ></p>
+
+<p>Полученные решения отметим на рисунках.</p>
+
+<p>Находим общее решение.</p>
+
+<p><img width=190 height=118 src="/wp-content/uploads/algebra/206/image130.jpg" ></p>
+
+<p>Указываем окончательный ответ после решения системы неравенств</p>
+
+<p><img width=123 height=58 src="/wp-content/uploads/algebra/206/image132.jpg" ></p>]]></content:encoded>
+			<wp:post_id>1</wp:post_id>
+			<category><![CDATA[Без рубрики]]></category>
+			<category domain="category" nicename="bez-rubriki"><![CDATA[Без рубрики]]></category>
+			<wp:post_date>2013-09-22 11:46</wp:post_date>
+			<wp:post_date_gmt>2013-09-22 11:46</wp:post_date_gmt>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+		</item>
+	</channel>
+</rss>

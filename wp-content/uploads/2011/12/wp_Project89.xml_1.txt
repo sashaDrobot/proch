@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="textKit (http://textkit.ru/)" created="2011-12-22 22:42"-->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.0/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.0/"
+>
+	<channel>
+		<title>Project1</title>
+		<description>textKit Generated Content</description>
+		<wp:wxr_version>1.0</wp:wxr_version>
+		<wp:category>
+			<wp:category_nicename>bez-rubriki</wp:category_nicename>
+			<wp:cat_name><![CDATA[Без рубрики]]></wp:cat_name>
+		</wp:category>
+		<item>
+			<title>Тесты по математике. Решить неравенство онлайн с дробно-рациональным выражением</title>
+			<wp:post_name>testy-po-matematike-reshit-neravenstvo-onlajn-s-drobno-racionalnym-vyrazheniem</wp:post_name>
+			<pubDate>Thu, 22 Dec 2011 22:41:34 GMT</pubDate>
+			<content:encoded><![CDATA[<h1>Тесты по математике. Решить неравенство онлайн с дробно-рациональным выражением</h1>
+
+<p><img width=142 height=72 src="/wp-content/uploads/algebra/89/image002.jpg" ></p>
+
+<p>Сдавая тесты по математике не забываем, что сначала всегда нужно найти  ОДЗ.</p>
+
+<p><img width=95 height=31 src="/wp-content/uploads/algebra/89/image004.jpg" ></p>
+
+<p>Решаем неравенство основным методом интервалов.</p>
+
+<p>Сдавая тесты по математике не забываем, что можно вначале решить вспомогательные уравнения.</p>
+
+<p><img width=268 height=31 src="/wp-content/uploads/algebra/89/image006.jpg" ></p>
+
+<p>Уравнение 1</p>
+
+<p><img width=129 height=31 src="/wp-content/uploads/algebra/89/image008.jpg" ></p>
+
+<p>Следующее уравнение равносильно предыдущему.</p>
+
+<p><img width=93 height=31 src="/wp-content/uploads/algebra/89/image010.jpg" ></p>
+
+<p>Находим дискриминант.</p>
+
+<p><img width=231 height=31 src="/wp-content/uploads/algebra/89/image012.jpg" ></p>
+
+<p>Дискриминант отрицателен, значит уравнение не имеет корней.</p>
+
+<p>Ответ этого уравнения: нет решений.</p>
+
+<p>Уравнение 2</p>
+
+<p><img width=65 height=31 src="/wp-content/uploads/algebra/89/image014.jpg" ></p>
+
+<p>Такие тесты по математике значительно упрощаются после того, как мы перенесем известные величины в правую часть уравнения.</p>
+
+<p><img width=45 height=31 src="/wp-content/uploads/algebra/89/image016.jpg" ></p>
+
+<p>Ответ этого уравнения: 
+<img width=85 height=21 src="/wp-content/uploads/algebra/89/image018.jpg" >.</p>
+
+<p>Отметим найденные критические точки и соответствующие им интервалы на числовой прямой.</p>
+
+<p><img width=432 height=54 src="/wp-content/uploads/algebra/89/image020.jpg" ></p>
+
+<p>Расчет знаков.</p>
+
+<p>Случай 1  :</p>
+
+<p><img width=43 height=21 src="/wp-content/uploads/algebra/89/image022.jpg" >.</p>
+
+<p>Пусть</p>
+
+<p><img width=43 height=21 src="/wp-content/uploads/algebra/89/image024.jpg" ></p>
+
+<p><img width=238 height=72 src="/wp-content/uploads/algebra/89/image026.jpg" ></p>
+
+<p>Итак, этот случай не удовлетворяет неравенству.</p>
+
+<p>Случай 2:</p>
+
+<p><img width=68 height=21 src="/wp-content/uploads/algebra/89/image028.jpg" >.</p>
+
+<p>Пусть</p>
+
+<p><img width=35 height=21 src="/wp-content/uploads/algebra/89/image030.jpg" ></p>
+
+<p><img width=212 height=72 src="/wp-content/uploads/algebra/89/image032.jpg" ></p>
+
+<p>Итак, этот случай удовлетворяет неравенству.</p>
+
+<p>Случай 3:</p>
+
+<p><img width=35 height=21 src="/wp-content/uploads/algebra/89/image034.jpg" >.</p>
+
+<p>Пусть</p>
+
+<p><img width=35 height=21 src="/wp-content/uploads/algebra/89/image036.jpg" ></p>
+
+<p><img width=212 height=72 src="/wp-content/uploads/algebra/89/image038.jpg" ></p>
+
+<p>Итак, этот случай не удовлетворяет неравенству.</p>
+
+<p>Числа</p>
+
+<p>-1, 1</p>
+
+<p>не удовлетворяют неравенству.</p>
+
+<p>Полученное решение отметим на рисунке.</p>
+
+<p><img width=432 height=54 src="/wp-content/uploads/algebra/89/image040.jpg" ></p>
+
+<p>Окончательный ответ:</p>
+
+<p><img width=68 height=21 src="/wp-content/uploads/algebra/89/image028.jpg" >.</p>]]></content:encoded>
+			<wp:post_id>1</wp:post_id>
+			<category><![CDATA[Без рубрики]]></category>
+			<category domain="category" nicename="bez-rubriki"><![CDATA[Без рубрики]]></category>
+			<wp:post_date>2011-12-22 22:41</wp:post_date>
+			<wp:post_date_gmt>2011-12-22 22:41</wp:post_date_gmt>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+		</item>
+	</channel>
+</rss>

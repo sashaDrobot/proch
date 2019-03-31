@@ -1,0 +1,1388 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="Исследуем%20функцию.files/filelist.xml">
+<link rel=Edit-Time-Data href="Исследуем%20функцию.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Исследуем функцию, заданную формулой: </title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>1</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>1</o:LastAuthor>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>10</o:TotalTime>
+  <o:Created>2010-11-26T21:13:00Z</o:Created>
+  <o:LastSaved>2010-11-26T21:18:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>638</o:Words>
+  <o:Characters>3643</o:Characters>
+  <o:Company>1</o:Company>
+  <o:Lines>30</o:Lines>
+  <o:Paragraphs>8</o:Paragraphs>
+  <o:CharactersWithSpaces>4273</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Обычная таблица";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=RU link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal>Когда сдаются тесты по математике, часто предлагается
+построить график дробно-линейной функции. </p>
+
+<p class=MsoNormal><a
+href="http://wordstat.yandex.ru/?cmd=words&amp;page=1&amp;ts=1290806121&amp;key=8746fc93d86dcff7c009dbb2a9ba7d00&amp;text=%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%20%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%20%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8">График
+дробно линейной функции</a> <span style='mso-spacerun:yes'> </span>состоит из 2
+веток, симметричных относительно наклонной асимптоты и осей координат.</p>
+
+<p class=MsoNormal>Решая тесты по математике, нужно привести полный ход построения</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:118.8pt;
+ height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image001.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=158 height=73
+src="Исследуем%20функцию.files/image002.jpg" v:shapes="_x0000_i1025"><![endif]></p>
+
+<p class=MsoNormal>Область определения: </p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1026" type="#_x0000_t75"
+ style='width:67.8pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image003.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=90 height=25
+src="Исследуем%20функцию.files/image004.jpg" v:shapes="_x0000_i1026"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Данная функция определена <span class=GramE>для</span>:</p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1027"
+ type="#_x0000_t75" style='width:48pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image005.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=64 height=25
+src="Исследуем%20функцию.files/image006.jpg" v:shapes="_x0000_i1027"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Переносим известные величины в правую часть неравенства <span
+class=SpellE>c</span> противоположным знаком.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-left:40.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+ type="#_x0000_t75" style='width:52.8pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image007.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=70 height=25
+src="Исследуем%20функцию.files/image008.jpg" v:shapes="_x0000_i1028"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:40.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1029"
+ type="#_x0000_t75" style='width:30.6pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image009.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=41 height=25
+src="Исследуем%20функцию.files/image010.jpg" v:shapes="_x0000_i1029"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:40.0pt'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Полученное решение отметим на рисунке.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-left:40.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1030"
+ type="#_x0000_t75" style='width:450pt;height:48.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image011.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=600 height=65
+src="Исследуем%20функцию.files/image012.jpg" v:shapes="_x0000_i1030"><![endif]></p>
+
+<p class=MsoNormal>Ответ:</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><span style='mso-spacerun:yes'> </span><!--[if gte vml 1]><v:shape
+ id="_x0000_i1031" type="#_x0000_t75" style='width:67.8pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image003.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=90 height=25
+src="Исследуем%20функцию.files/image004.jpg" v:shapes="_x0000_i1031"><![endif]>.</p>
+
+<p class=MsoNormal>Первая производная: <!--[if gte vml 1]><v:shape id="_x0000_i1032"
+ type="#_x0000_t75" style='width:139.8pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image013.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=186 height=86
+src="Исследуем%20функцию.files/image014.jpg" v:shapes="_x0000_i1032"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1033"
+ type="#_x0000_t75" style='width:120pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image015.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=160 height=73
+src="Исследуем%20функцию.files/image016.jpg" v:shapes="_x0000_i1033"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Воспользуемся формулой производной частного.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1034" type="#_x0000_t75"
+ style='width:280.8pt;height:70.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image017.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=374 height=94
+src="Исследуем%20функцию.files/image018.jpg" v:shapes="_x0000_i1034"><![endif]></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1035" type="#_x0000_t75"
+ style='width:245.4pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image019.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=327 height=86
+src="Исследуем%20функцию.files/image020.jpg" v:shapes="_x0000_i1035"><![endif]></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1036" type="#_x0000_t75"
+ style='width:214.8pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image021.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=286 height=86
+src="Исследуем%20функцию.files/image022.jpg" v:shapes="_x0000_i1036"><![endif]></p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1037" type="#_x0000_t75"
+ style='width:204pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image023.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=272 height=86
+src="Исследуем%20функцию.files/image024.jpg" v:shapes="_x0000_i1037"><![endif]></p>
+
+<p class=MsoNormal>Раскрываем скобки.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1038" type="#_x0000_t75"
+ style='width:187.8pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image025.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=250 height=86
+src="Исследуем%20функцию.files/image026.jpg" v:shapes="_x0000_i1038"><![endif]></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1039" type="#_x0000_t75"
+ style='width:107.4pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image027.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=143 height=86
+src="Исследуем%20функцию.files/image028.jpg" v:shapes="_x0000_i1039"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1040" type="#_x0000_t75"
+ style='width:100.8pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image029.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=134 height=86
+src="Исследуем%20функцию.files/image030.jpg" v:shapes="_x0000_i1040"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Вторая производная: </p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1041" type="#_x0000_t75"
+ style='width:106.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image031.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=142 height=73
+src="Исследуем%20функцию.files/image032.jpg" v:shapes="_x0000_i1041"><![endif]></p>
+
+<p class=MsoNormal>Вторая производная это производная от первой производной.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1042"
+ type="#_x0000_t75" style='width:142.8pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image033.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=190 height=86
+src="Исследуем%20функцию.files/image034.jpg" v:shapes="_x0000_i1042"><![endif]></p>
+
+<p class=MsoNormal>Воспользуемся формулой производной частного.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1043" type="#_x0000_t75"
+ style='width:348pt;height:77.4pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image035.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=464 height=103
+src="Исследуем%20функцию.files/image036.jpg" v:shapes="_x0000_i1043"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Воспользуемся свойством степеней.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1044" type="#_x0000_t75"
+ style='width:348pt;height:70.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image037.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=464 height=94
+src="Исследуем%20функцию.files/image038.jpg" v:shapes="_x0000_i1044"><![endif]></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1045" type="#_x0000_t75"
+ style='width:302.4pt;height:70.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image039.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=403 height=94
+src="Исследуем%20функцию.files/image040.jpg" v:shapes="_x0000_i1045"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Воспользуемся правилом нахождения производной для сложной
+функции.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1046" type="#_x0000_t75"
+ style='width:341.4pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image041.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=455 height=86
+src="Исследуем%20функцию.files/image042.jpg" v:shapes="_x0000_i1046"><![endif]></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1047" type="#_x0000_t75"
+ style='width:294pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image043.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=392 height=86
+src="Исследуем%20функцию.files/image044.jpg" v:shapes="_x0000_i1047"><![endif]></p>
+
+<p class=MsoNormal>Раскрываем скобки.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1048" type="#_x0000_t75"
+ style='width:283.8pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image045.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=378 height=86
+src="Исследуем%20функцию.files/image046.jpg" v:shapes="_x0000_i1048"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Выносим общий множитель.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1049" type="#_x0000_t75"
+ style='width:291pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image047.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=388 height=86
+src="Исследуем%20функцию.files/image048.jpg" v:shapes="_x0000_i1049"><![endif]></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1050" type="#_x0000_t75"
+ style='width:92.4pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image049.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=123 height=73
+src="Исследуем%20функцию.files/image050.jpg" v:shapes="_x0000_i1050"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Воспользуемся свойством степеней.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1051" type="#_x0000_t75"
+ style='width:69.6pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image051.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=93 height=73
+src="Исследуем%20функцию.files/image052.jpg" v:shapes="_x0000_i1051"><![endif]></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1052" type="#_x0000_t75"
+ style='width:63pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image053.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=84 height=73
+src="Исследуем%20функцию.files/image054.jpg" v:shapes="_x0000_i1052"><![endif]></p>
+
+<p class=MsoNormal>Точки пересечения с осью</p>
+
+<p class=MsoNormal><span style='mso-spacerun:yes'> </span><!--[if gte vml 1]><v:shape
+ id="_x0000_i1053" type="#_x0000_t75" style='width:9.6pt;height:18pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image055.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=13 height=24
+src="Исследуем%20функцию.files/image056.jpg" v:shapes="_x0000_i1053"><![endif]>:</p>
+
+<p class=MsoNormal><span style='mso-spacerun:yes'> </span><!--[if gte vml 1]><v:shape
+ id="_x0000_i1054" type="#_x0000_t75" style='width:74.4pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image057.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=99 height=25
+src="Исследуем%20функцию.files/image058.jpg" v:shapes="_x0000_i1054"><![endif]></p>
+
+<p class=MsoNormal>Для нахождения точек пересечения с осью абсцисс приравняем
+функцию к нулю.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-left:40.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1055"
+ type="#_x0000_t75" style='width:99pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image059.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=132 height=73
+src="Исследуем%20функцию.files/image060.jpg" v:shapes="_x0000_i1055"><![endif]></p>
+
+<p class=MsoNormal>Дробь обращается в нуль тогда, когда числитель равен нулю.</p>
+
+<p class=MsoNormal style='margin-left:60.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1056"
+ type="#_x0000_t75" style='width:88.8pt;height:28.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image061.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=118 height=38
+src="Исследуем%20функцию.files/image062.jpg" v:shapes="_x0000_i1056"><![endif]></p>
+
+<p class=MsoNormal>Находим дискриминант.</p>
+
+<p class=MsoNormal style='margin-left:100.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1057" type="#_x0000_t75" style='width:203.4pt;height:28.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image063.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=271 height=38
+src="Исследуем%20функцию.files/image064.jpg" v:shapes="_x0000_i1057"><![endif]></p>
+
+<p class=MsoNormal>Дискриминант положителен, <span class=GramE>значит</span>
+уравнение имеет два корня.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-left:100.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1058" type="#_x0000_t75" style='width:109.8pt;height:51.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image065.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=146 height=69
+src="Исследуем%20функцию.files/image066.jpg" v:shapes="_x0000_i1058"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:100.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1059" type="#_x0000_t75" style='width:210.6pt;height:45pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image067.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=281 height=60
+src="Исследуем%20функцию.files/image068.jpg" v:shapes="_x0000_i1059"><![endif]></p>
+
+<p class=MsoNormal>Ответ: </p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><!--[if gte vml 1]><v:shape id="_x0000_i1060" type="#_x0000_t75"
+ style='width:74.4pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image057.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=99 height=25
+src="Исследуем%20функцию.files/image058.jpg" v:shapes="_x0000_i1060"><![endif]>.</p>
+
+<p class=MsoNormal>Точки пересечения с осью <!--[if gte vml 1]><v:shape id="_x0000_i1061"
+ type="#_x0000_t75" style='width:9.6pt;height:18pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image069.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=13 height=24
+src="Исследуем%20функцию.files/image070.jpg" v:shapes="_x0000_i1061"><![endif]>:
+<!--[if gte vml 1]><v:shape id="_x0000_i1062" type="#_x0000_t75" style='width:47.4pt;
+ height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image071.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=63 height=25
+src="Исследуем%20функцию.files/image072.jpg" v:shapes="_x0000_i1062"><![endif]></p>
+
+<p class=MsoNormal>Пусть <!--[if gte vml 1]><v:shape id="_x0000_i1063" type="#_x0000_t75"
+ style='width:30.6pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image073.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=41 height=25
+src="Исследуем%20функцию.files/image074.jpg" v:shapes="_x0000_i1063"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1064"
+ type="#_x0000_t75" style='width:164.4pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image075.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=219 height=73
+src="Исследуем%20функцию.files/image076.jpg" v:shapes="_x0000_i1064"><![endif]></p>
+
+<p class=MsoNormal>Вертикальные асимптоты: <!--[if gte vml 1]><v:shape id="_x0000_i1065"
+ type="#_x0000_t75" style='width:30.6pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image077.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=41 height=25
+src="Исследуем%20функцию.files/image078.jpg" v:shapes="_x0000_i1065"><![endif]></p>
+
+<p class=MsoNormal>Определим значения аргумента, при которых знаменатель
+функции обращается в ноль</p>
+
+<p class=MsoNormal style='margin-left:40.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1066"
+ type="#_x0000_t75" style='width:48pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image079.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=64 height=25
+src="Исследуем%20функцию.files/image080.jpg" v:shapes="_x0000_i1066"><![endif]></p>
+
+<p class=MsoNormal>Перенесем известные величины в правую часть уравнения.</p>
+
+<p class=MsoNormal style='margin-left:60.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1067"
+ type="#_x0000_t75" style='width:30.6pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image077.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=41 height=25
+src="Исследуем%20функцию.files/image078.jpg" v:shapes="_x0000_i1067"><![endif]></p>
+
+<p class=MsoNormal>Горизонтальные асимптоты: нет<span class=GramE> .</span></p>
+
+<p class=MsoNormal>Наклонные асимптоты: <!--[if gte vml 1]><v:shape id="_x0000_i1068"
+ type="#_x0000_t75" style='width:62.4pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image081.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=83 height=25
+src="Исследуем%20функцию.files/image082.jpg" v:shapes="_x0000_i1068"><![endif]><span
+class=GramE><span style='mso-spacerun:yes'> </span>.</span></p>
+
+<p class=MsoNormal>Для нахождения наклонных асимптот преобразуем исходное
+выражение.</p>
+
+<p class=MsoNormal style='margin-left:60.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1069"
+ type="#_x0000_t75" style='width:84.6pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image083.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=113 height=73
+src="Исследуем%20функцию.files/image084.jpg" v:shapes="_x0000_i1069"><![endif]></p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1070" type="#_x0000_t75"
+ style='width:114pt;height:45pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image085.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=152 height=60
+src="Исследуем%20функцию.files/image086.jpg" v:shapes="_x0000_i1070"><![endif]></p>
+
+<p class=MsoNormal>Раскрываем скобки.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1071" type="#_x0000_t75"
+ style='width:96.6pt;height:45pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image087.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=129 height=60
+src="Исследуем%20функцию.files/image088.jpg" v:shapes="_x0000_i1071"><![endif]></p>
+
+<p class=MsoNormal>Предел разности исходной функции и функции <!--[if gte vml 1]><v:shape
+ id="_x0000_i1072" type="#_x0000_t75" style='width:42pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image089.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=56 height=25
+src="Исследуем%20функцию.files/image090.jpg" v:shapes="_x0000_i1072"><![endif]><span
+style='mso-spacerun:yes'> </span>на бесконечности равен нулю.</p>
+
+<p class=MsoNormal>Критические точки: <!--[if gte vml 1]><v:shape id="_x0000_i1073"
+ type="#_x0000_t75" style='width:178.8pt;height:26.4pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image091.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=238 height=35
+src="Исследуем%20функцию.files/image092.jpg" v:shapes="_x0000_i1073"><![endif]></p>
+
+<p class=MsoNormal>Для нахождения критических точек приравняем первую
+производную к нулю и решим полученное уравнение.</p>
+
+<p class=MsoNormal style='margin-left:40.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1074"
+ type="#_x0000_t75" style='width:115.8pt;height:64.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image093.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=154 height=86
+src="Исследуем%20функцию.files/image094.jpg" v:shapes="_x0000_i1074"><![endif]></p>
+
+<p class=MsoNormal>Дробь обращается в нуль тогда, когда числитель равен нулю.</p>
+
+<p class=MsoNormal style='margin-left:60.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1075"
+ type="#_x0000_t75" style='width:105pt;height:28.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image095.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=140 height=38
+src="Исследуем%20функцию.files/image096.jpg" v:shapes="_x0000_i1075"><![endif]></p>
+
+<p class=MsoNormal>Находим дискриминант.</p>
+
+<p class=MsoNormal style='margin-left:100.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1076" type="#_x0000_t75" style='width:252pt;height:28.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image097.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=336 height=38
+src="Исследуем%20функцию.files/image098.jpg" v:shapes="_x0000_i1076"><![endif]></p>
+
+<p class=MsoNormal>Дискриминант положителен, <span class=GramE>значит</span>
+уравнение имеет два корня.</p>
+
+<p class=MsoNormal>Воспользуемся формулой корней квадратного уравнения.</p>
+
+<p class=MsoNormal style='margin-left:100.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1077" type="#_x0000_t75" style='width:109.8pt;height:51.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image065.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=146 height=69
+src="Исследуем%20функцию.files/image066.jpg" v:shapes="_x0000_i1077"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:100.0pt'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1078" type="#_x0000_t75" style='width:394.8pt;height:52.8pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image099.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=526 height=70
+src="Исследуем%20функцию.files/image100.jpg" v:shapes="_x0000_i1078"><![endif]></p>
+
+<p class=MsoNormal>Ответ: <!--[if gte vml 1]><v:shape id="_x0000_i1079" type="#_x0000_t75"
+ style='width:178.8pt;height:26.4pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image091.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=238 height=35
+src="Исследуем%20функцию.files/image092.jpg" v:shapes="_x0000_i1079"><![endif]>.</p>
+
+<p class=MsoNormal>Возможные точки перегиба: нет</p>
+
+<p class=MsoNormal>Для нахождения возможных точек перегиба приравняем вторую
+производную к нулю и решим полученное уравнение.</p>
+
+<p class=MsoNormal style='margin-left:40.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1080"
+ type="#_x0000_t75" style='width:78pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image101.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=104 height=73
+src="Исследуем%20функцию.files/image102.jpg" v:shapes="_x0000_i1080"><![endif]></p>
+
+<p class=MsoNormal>Ответ: нет решений.</p>
+
+<p class=MsoNormal>Точки разрыва: <!--[if gte vml 1]><v:shape id="_x0000_i1081"
+ type="#_x0000_t75" style='width:30.6pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image077.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=41 height=25
+src="Исследуем%20функцию.files/image078.jpg" v:shapes="_x0000_i1081"><![endif]></p>
+
+<p class=MsoNormal>Симметрия относительно оси ординат: нет</p>
+
+<p class=MsoNormal>Функция <span class=SpellE>f</span>(<span class=SpellE>x</span>)
+называется четной, если <span class=SpellE>f</span>(-<span class=SpellE>x</span>)=<span
+class=SpellE>f</span>(<span class=SpellE>x</span>).</p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1082"
+ type="#_x0000_t75" style='width:80.4pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image103.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=107 height=25
+src="Исследуем%20функцию.files/image104.jpg" v:shapes="_x0000_i1082"><![endif]></p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1083" type="#_x0000_t75"
+ style='width:210pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image105.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=280 height=73
+src="Исследуем%20функцию.files/image106.jpg" v:shapes="_x0000_i1083"><![endif]></p>
+
+<p class=MsoNormal>Выносим знак минус из произведения.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1084" type="#_x0000_t75"
+ style='width:171pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image107.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=228 height=73
+src="Исследуем%20функцию.files/image108.jpg" v:shapes="_x0000_i1084"><![endif]></p>
+
+<p class=MsoNormal>Выносим знак минус из произведения.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1085" type="#_x0000_t75"
+ style='width:175.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image109.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=234 height=73
+src="Исследуем%20функцию.files/image110.jpg" v:shapes="_x0000_i1085"><![endif]></p>
+
+<p class=MsoNormal>Приводим дроби к общему знаменателю.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1086" type="#_x0000_t75"
+ style='width:4in;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image111.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=384 height=73
+src="Исследуем%20функцию.files/image112.jpg" v:shapes="_x0000_i1086"><![endif]></p>
+
+<p class=MsoNormal>Производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1087" type="#_x0000_t75"
+ style='width:277.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image113.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=370 height=73
+src="Исследуем%20функцию.files/image114.jpg" v:shapes="_x0000_i1087"><![endif]></p>
+
+<p class=MsoNormal>Раскрываем скобки.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1088" type="#_x0000_t75"
+ style='width:456pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image115.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=608 height=73
+src="Исследуем%20функцию.files/image116.jpg" v:shapes="_x0000_i1088"><![endif]></p>
+
+<p class=MsoNormal>Изменяем порядок действий.</p>
+
+<p class=MsoNormal>Приводим подобные члены.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1089" type="#_x0000_t75"
+ style='width:346.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image117.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=462 height=73
+src="Исследуем%20функцию.files/image118.jpg" v:shapes="_x0000_i1089"><![endif]></p>
+
+<p class=MsoNormal>Раскрываем скобки.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1090" type="#_x0000_t75"
+ style='width:313.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image119.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=418 height=73
+src="Исследуем%20функцию.files/image120.jpg" v:shapes="_x0000_i1090"><![endif]></p>
+
+<p class=MsoNormal>Приводим подобные члены.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1091" type="#_x0000_t75"
+ style='width:102.6pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image121.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=137 height=73
+src="Исследуем%20функцию.files/image122.jpg" v:shapes="_x0000_i1091"><![endif]></p>
+
+<p class=MsoNormal>Разложим числитель дроби на множители.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1092" type="#_x0000_t75"
+ style='width:104.4pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image123.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=139 height=73
+src="Исследуем%20функцию.files/image124.jpg" v:shapes="_x0000_i1092"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1093"
+ type="#_x0000_t75" style='width:119.4pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image125.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=159 height=73
+src="Исследуем%20функцию.files/image126.jpg" v:shapes="_x0000_i1093"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1094"
+ type="#_x0000_t75" style='width:77.4pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image127.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=103 height=25
+src="Исследуем%20функцию.files/image128.jpg" v:shapes="_x0000_i1094"><![endif]></p>
+
+<p class=MsoNormal>Симметрия относительно начала координат: нет</p>
+
+<p class=MsoNormal>Функция <span class=SpellE>f</span>(<span class=SpellE>x</span>)
+называется нечетной, если <span class=SpellE>f</span>(-<span class=SpellE>x</span>)=-<span
+class=SpellE>f</span>(<span class=SpellE>x</span>).</p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1095"
+ type="#_x0000_t75" style='width:84.6pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image129.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=113 height=25
+src="Исследуем%20функцию.files/image130.jpg" v:shapes="_x0000_i1095"><![endif]></p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1096" type="#_x0000_t75"
+ style='width:214.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image131.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=286 height=73
+src="Исследуем%20функцию.files/image132.jpg" v:shapes="_x0000_i1096"><![endif]></p>
+
+<p class=MsoNormal>Выносим знак минус из произведения.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1097" type="#_x0000_t75"
+ style='width:175.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image133.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=234 height=73
+src="Исследуем%20функцию.files/image134.jpg" v:shapes="_x0000_i1097"><![endif]></p>
+
+<p class=MsoNormal>Выносим знак минус из произведения.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1098" type="#_x0000_t75"
+ style='width:171pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image135.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=228 height=73
+src="Исследуем%20функцию.files/image136.jpg" v:shapes="_x0000_i1098"><![endif]></p>
+
+<p class=MsoNormal>Приводим дроби к общему знаменателю.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1099" type="#_x0000_t75"
+ style='width:283.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image137.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=378 height=73
+src="Исследуем%20функцию.files/image138.jpg" v:shapes="_x0000_i1099"><![endif]></p>
+
+<p class=MsoNormal>Производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1100" type="#_x0000_t75"
+ style='width:273pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image139.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=364 height=73
+src="Исследуем%20функцию.files/image140.jpg" v:shapes="_x0000_i1100"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Раскрываем скобки.</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1101" type="#_x0000_t75"
+ style='width:451.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image141.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=602 height=73
+src="Исследуем%20функцию.files/image142.jpg" v:shapes="_x0000_i1101"><![endif]></p>
+
+<p class=MsoNormal>Изменяем порядок действий.</p>
+
+<p class=MsoNormal>Приводим подобные члены.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1102" type="#_x0000_t75"
+ style='width:342pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image143.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=456 height=73
+src="Исследуем%20функцию.files/image144.jpg" v:shapes="_x0000_i1102"><![endif]></p>
+
+<p class=MsoNormal>Раскрываем скобки.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1103" type="#_x0000_t75"
+ style='width:304.8pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image145.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=406 height=73
+src="Исследуем%20функцию.files/image146.jpg" v:shapes="_x0000_i1103"><![endif]></p>
+
+<p class=MsoNormal>Приводим подобные члены.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1104" type="#_x0000_t75"
+ style='width:102.6pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image147.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=137 height=73
+src="Исследуем%20функцию.files/image148.jpg" v:shapes="_x0000_i1104"><![endif]></p>
+
+<p class=MsoNormal>Разложим числитель дроби на множители.</p>
+
+<p class=MsoNormal>=<!--[if gte vml 1]><v:shape id="_x0000_i1105" type="#_x0000_t75"
+ style='width:111pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image149.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=148 height=73
+src="Исследуем%20функцию.files/image150.jpg" v:shapes="_x0000_i1105"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1106"
+ type="#_x0000_t75" style='width:126pt;height:54.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image151.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=168 height=73
+src="Исследуем%20функцию.files/image152.jpg" v:shapes="_x0000_i1106"><![endif]></p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1107"
+ type="#_x0000_t75" style='width:84pt;height:18.6pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image153.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=112 height=25
+src="Исследуем%20функцию.files/image154.jpg" v:shapes="_x0000_i1107"><![endif]></p>
+
+<p class=MsoNormal>Тестовые интервалы:</p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1108"
+ type="#_x0000_t75" style='width:450pt;height:56.4pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image155.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=600 height=75
+src="Исследуем%20функцию.files/image156.jpg" v:shapes="_x0000_i1108"><![endif]></p>
+
+<p class=MsoNormal>Результаты исследования функции занесем в таблицу.</p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='margin-left:4.6pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:10.0pt 10.0pt 10.0pt 10.0pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>Тестовые интервалы:</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1109" type="#_x0000_t75" style='width:30pt;height:18pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image157.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=40 height=24
+  src="Исследуем%20функцию.files/image158.jpg" v:shapes="_x0000_i1109"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1110" type="#_x0000_t75" style='width:34.8pt;height:23.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image159.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=46 height=31
+  src="Исследуем%20функцию.files/image160.jpg" v:shapes="_x0000_i1110"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1111" type="#_x0000_t75" style='width:39pt;height:23.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image161.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=52 height=31
+  src="Исследуем%20функцию.files/image162.jpg" v:shapes="_x0000_i1111"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>характер графика</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1112" type="#_x0000_t75" style='width:37.8pt;height:18.6pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image163.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=50 height=25
+  src="Исследуем%20функцию.files/image164.jpg" v:shapes="_x0000_i1112"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>возрастает<span
+  class=GramE>,в</span>ыпукла</span> вверх</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1113" type="#_x0000_t75" style='width:37.8pt;height:18.6pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image165.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=50 height=25
+  src="Исследуем%20функцию.files/image166.jpg" v:shapes="_x0000_i1113"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1114" type="#_x0000_t75" style='width:10.8pt;height:18.6pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image167.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=14 height=25
+  src="Исследуем%20функцию.files/image168.jpg" v:shapes="_x0000_i1114"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1115" type="#_x0000_t75" style='width:111.6pt;height:26.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image169.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=149 height=35
+  src="Исследуем%20функцию.files/image170.jpg" v:shapes="_x0000_i1115"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>возрастает<span
+  class=GramE>,в</span>ыпукла</span> вверх</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1116" type="#_x0000_t75" style='width:84pt;height:26.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image171.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=112 height=35
+  src="Исследуем%20функцию.files/image172.jpg" v:shapes="_x0000_i1116"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1117" type="#_x0000_t75" style='width:74.4pt;height:26.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image173.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=99 height=35
+  src="Исследуем%20функцию.files/image174.jpg" v:shapes="_x0000_i1117"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1118" type="#_x0000_t75" style='width:10.8pt;height:18.6pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image167.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=14 height=25
+  src="Исследуем%20функцию.files/image168.jpg" v:shapes="_x0000_i1118"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>относительный
+  максимум </p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1119" type="#_x0000_t75" style='width:105pt;height:26.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image175.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=140 height=35
+  src="Исследуем%20функцию.files/image176.jpg" v:shapes="_x0000_i1119"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>убывает<span
+  class=GramE>,в</span>ыпукла</span> вверх</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1120" type="#_x0000_t75" style='width:30.6pt;height:18.6pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image177.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=41 height=25
+  src="Исследуем%20функцию.files/image178.jpg" v:shapes="_x0000_i1120"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1121" type="#_x0000_t75" style='width:10.8pt;height:18.6pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image167.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=14 height=25
+  src="Исследуем%20функцию.files/image168.jpg" v:shapes="_x0000_i1121"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1122" type="#_x0000_t75" style='width:51.6pt;height:18.6pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image179.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=69 height=25
+  src="Исследуем%20функцию.files/image180.jpg" v:shapes="_x0000_i1122"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>убывает<span
+  class=GramE>,в</span>ыпукла</span> вверх</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1123" type="#_x0000_t75" style='width:30.6pt;height:18.6pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image077.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=41 height=25
+  src="Исследуем%20функцию.files/image078.jpg" v:shapes="_x0000_i1123"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>неопределено</span></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>неопределено</span></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>неопределено</span></p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>вертикальная
+  асимптота</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1124" type="#_x0000_t75" style='width:109.8pt;height:26.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image181.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=146 height=35
+  src="Исследуем%20функцию.files/image182.jpg" v:shapes="_x0000_i1124"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>-</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>убывает<span
+  class=GramE>,в</span>ыпукла</span> вниз</p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1125" type="#_x0000_t75" style='width:88.8pt;height:26.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image183.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=118 height=35
+  src="Исследуем%20функцию.files/image184.jpg" v:shapes="_x0000_i1125"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1126" type="#_x0000_t75" style='width:78.6pt;height:26.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image185.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=105 height=35
+  src="Исследуем%20функцию.files/image186.jpg" v:shapes="_x0000_i1126"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1127" type="#_x0000_t75" style='width:10.8pt;height:18.6pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image167.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=14 height=25
+  src="Исследуем%20функцию.files/image168.jpg" v:shapes="_x0000_i1127"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>относительный
+  минимум </p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes'>
+  <td width=161 valign=top style='width:96.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1128" type="#_x0000_t75" style='width:88.8pt;height:26.4pt'>
+   <v:imagedata src="Исследуем%20функцию.files/image187.png" o:title="temp"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=118 height=35
+  src="Исследуем%20функцию.files/image188.jpg" v:shapes="_x0000_i1128"><![endif]></p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'>+</p>
+  </td>
+  <td width=161 valign=top style='width:96.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:10.0pt 10.0pt 10.0pt 10.0pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>возрастает<span
+  class=GramE>,в</span>ыпукла</span> вниз</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-left:20.0pt'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Относительные экстремумы: </p>
+
+<p class=MsoNormal>Проходя через точку минимума, производная функции меняет
+знак <span class=GramE>с</span> (-) на (+).</p>
+
+<p class=MsoNormal>Относительный минимум <!--[if gte vml 1]><v:shape id="_x0000_i1129"
+ type="#_x0000_t75" style='width:168pt;height:26.4pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image189.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=224 height=35
+src="Исследуем%20функцию.files/image190.jpg" v:shapes="_x0000_i1129"><![endif]>.</p>
+
+<p class=MsoNormal>Проходя через точку максимума. производная функции меняет
+знак <span class=GramE>с</span> (+) на (-).</p>
+
+<p class=MsoNormal>Относительный максимум <!--[if gte vml 1]><v:shape id="_x0000_i1130"
+ type="#_x0000_t75" style='width:159pt;height:26.4pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image191.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=212 height=35
+src="Исследуем%20функцию.files/image192.jpg" v:shapes="_x0000_i1130"><![endif]>.</p>
+
+<p class=MsoNormal>Данные таблицы нанесем на координатную плоскость.</p>
+
+<p class=MsoNormal>Используя результаты исследования функции, построим ее
+график.</p>
+
+<p class=MsoNormal style='margin-left:20.0pt'><!--[if gte vml 1]><v:shape id="_x0000_i1131"
+ type="#_x0000_t75" style='width:467.4pt;height:467.4pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image193.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=623 height=623
+src="Исследуем%20функцию.files/image194.jpg" v:shapes="_x0000_i1131"><![endif]></p>
+
+<p class=MsoNormal>Множество значений функции:</p>
+
+<p class=MsoNormal><span style='mso-spacerun:yes'> </span><!--[if gte vml 1]><v:shape
+ id="_x0000_i1132" type="#_x0000_t75" style='width:199.8pt;height:26.4pt'>
+ <v:imagedata src="Исследуем%20функцию.files/image195.png" o:title="temp"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=266 height=35
+src="Исследуем%20функцию.files/image196.jpg" v:shapes="_x0000_i1132"><![endif]></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Наименьшее значение: нет</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>Наибольшее значение: нет</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="textKit (http://textkit.ru/)" created="2012-01-03 16:06"-->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.0/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.0/"
+>
+	<channel>
+		<title>Project1</title>
+		<description>textKit Generated Content</description>
+		<wp:wxr_version>1.0</wp:wxr_version>
+		<wp:category>
+			<wp:category_nicename>bez-rubriki</wp:category_nicename>
+			<wp:cat_name><![CDATA[Без рубрики]]></wp:cat_name>
+		</wp:category>
+		<item>
+			<title>Тесты по математике . Решить дробно-рациональное кубическое  уравнение наиболее оптимальным способом.</title>
+			<wp:post_name>testy-po-matematike-reshit-drobno-racionalnoe-kubicheskoe-uravnenie-naibolee-optimalnym-sposobom</wp:post_name>
+			<pubDate>Tue, 03 Jan 2012 16:04:15 GMT</pubDate>
+			<content:encoded><![CDATA[<h1>Тесты по математике . Решить дробно-рациональное кубическое  уравнение наиболее оптимальным способом.</h1>
+
+<p><img width=172 height=62 src="/wp-content/uploads/algebra/93/image002.jpg" ></p>
+
+<p>При решении  такого теста по математике надо вначале  найи область допустимых значений</p>
+
+<p><img width=137 height=52 src="/wp-content/uploads/algebra/93/image004.jpg" ></p>
+
+<p>Теперь перенесем все слагаемые  левую часть и проведем упрощение полученного выражения</p>
+
+<p><img width=192 height=62 src="/wp-content/uploads/algebra/93/image006.jpg" ></p>
+
+<p>Следующим шагом в решении данного примера будет изменение  знаков  выражений на противоположные.</p>
+
+<p><img width=218 height=62 src="/wp-content/uploads/algebra/93/image008.jpg" ></p>
+
+<p><img width=218 height=62 src="/wp-content/uploads/algebra/93/image010.jpg" ></p>
+
+<p>Приводим дроби к общему знаменателю.</p>
+
+<p><img width=366 height=72 src="/wp-content/uploads/algebra/93/image012.jpg" ></p>
+
+<p>Для решения этого тесты по математике наиболее оптимальным способом  производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p><img width=342 height=72 src="/wp-content/uploads/algebra/93/image014.jpg" ></p>
+
+<p>Теперь в числителе этой дроби мы может привести подобные члены и упростить выражение.</p>
+
+<p><img width=375 height=72 src="/wp-content/uploads/algebra/93/image016.jpg" ></p>
+
+<p>Теперь , учитывая, что перед скобками стоит знак минус, нужно раскрыть скобки.</p>
+
+<p><img width=415 height=72 src="/wp-content/uploads/algebra/93/image018.jpg" ></p>
+
+<p>Следующим шагом будет изменение  порядка  действий.</p>
+
+<p><img width=379 height=72 src="/wp-content/uploads/algebra/93/image020.jpg" ></p>
+
+<p>Приводим подобные члены.</p>
+
+<p><img width=252 height=72 src="/wp-content/uploads/algebra/93/image022.jpg" ></p>
+
+<p>Приводим дроби к общему знаменателю.</p>
+
+<p><img width=390 height=72 src="/wp-content/uploads/algebra/93/image024.jpg" ></p>
+
+<p>Производим сложение дробей с одинаковыми знаменателями.</p>
+
+<p><img width=394 height=72 src="/wp-content/uploads/algebra/93/image026.jpg" ></p>
+
+<p>Дробь обращается в нуль тогда, когда числитель равен нулю.</p>
+
+<p><img width=380 height=31 src="/wp-content/uploads/algebra/93/image028.jpg" ></p>
+
+<p>Раскрываем скобки.</p>
+
+<p><img width=394 height=31 src="/wp-content/uploads/algebra/93/image030.jpg" ></p>
+
+<p>Чтобы в этом тесте по математике получилось легкое квадратное уравнение нужно привести  подобные члены.</p>
+
+<p><img width=213 height=31 src="/wp-content/uploads/algebra/93/image032.jpg" ></p>
+
+<p>Изменим знаки выражений на противоположные.</p>
+
+<p><img width=200 height=31 src="/wp-content/uploads/algebra/93/image034.jpg" ></p>
+
+<p>Следующее уравнение равносильно предыдущему.</p>
+
+<p><img width=200 height=31 src="/wp-content/uploads/algebra/93/image036.jpg" ></p>
+
+<p>К сожалению точные корни этого уравнения не могут быть получены, используя школьный курс математики.</p>]]></content:encoded>
+			<wp:post_id>1</wp:post_id>
+			<category><![CDATA[Без рубрики]]></category>
+			<category domain="category" nicename="bez-rubriki"><![CDATA[Без рубрики]]></category>
+			<wp:post_date>2012-01-03 16:04</wp:post_date>
+			<wp:post_date_gmt>2012-01-03 16:04</wp:post_date_gmt>
+			<wp:status>publish</wp:status>
+			<wp:post_type>post</wp:post_type>
+		</item>
+	</channel>
+</rss>
